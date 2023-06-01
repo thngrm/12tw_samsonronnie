@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+body {
+    background-color: #fff9e3;
+    overflow: visible;
+}
+
+header {
+    position: absolute;
+    background-color: #ae956b;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.areas {
+    color: red;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 50px;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.logo {
+    color: black;
+    font-size: 30px;
+    cursor: default;
+}
+
+.navbar a{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 600;
+    padding: 6px 15px;
+    border-radius: 20px;
+}
+
+.navbar a:hover,
+.navbar a.main {
+    background-color: #fff9e3;
+    color: #ae956b;
+}
+
+.image {
+    position: relative;
+    top: 250px;
+    left: 60px;
+}
+
+.floor {
+    position: relative;
+    top: -50px;
+    left: 190px;
+}
+
+.me {
+    position: relative;
+    top: 280px;
+    left: 100px;
+}
+
+.heading {
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+
+.about-heading {
+    position: absolute;
+    top: 290px;
+    left: 450px;
+}
+
+.intro {
+    position: absolute;
+    color: black;
+    left: 600px;
+    top: 480px;
+    font-weight: 500;
+    font-size: 1.4em;
+}
+
+.about-intro {
+    position: absolute;
+    color: black;
+    left: 450px;
+    top: 360px;
+    font-weight: 400;
+    font-size: 1.4em;
+}
+
+.music {
+    position: absolute;
+    color: black;
+    left: 450px;
+    top: 800px;
+    font-weight: 400;
+    font-size: 1.4em;
+}
+
+.blackpink{
+    position: absolute;
+    left: 450px;
+    top: 980px;
+}
+
+.bp {
+    position: absolute;
+    top: 930px;
+    left: 490px;
+    padding-bottom: 300px;
+}
+
+.chase{
+    position: absolute;
+    top: 930px;
+    left: 790px;
+    padding-bottom: 300px;
+}
+
+.atlantic {
+    position: absolute;
+    top: 980px;
+    left: 800px;
+}
+
+.the {
+    position: absolute;
+    top: 930px;
+    left: 1195px;
+    padding-bottom: 300px;
+}
+
+.weeknd {
+    position: absolute;
+    top: 980px;
+    left: 1150px;
+}
+
+.info {
+    position: absolute;
+    color: black;
+    left: 600px;
+    top: 600px;
+}
+
+.personal-info {
+    position: absolute;
+    font-weight: 500;
+    color: black;
+    left: 600px;
+    top: 640px;
+}
+
+.hobby {
+    position: absolute;
+    color: black;
+    left: 600px;
+    top: 745px;
+}
+
+.hobbies {
+    position: absolute;
+    font-weight: 500;
+    color: black;
+    left: 600px;
+    top: 785px;
+}
+
+.html {
+    margin-top: 250px;
+    margin-left: 50px;
+}
+
+.html-text {
+    margin-left: 50px;
+}
+
+.css {
+    margin-left: 50px;
+}
+
+.css-text {
+    margin-left: 50px;
+}
+
+.js {
+    margin-left: 50px;
+}
+
+.js-text {
+    margin-left: 50px;
+}
